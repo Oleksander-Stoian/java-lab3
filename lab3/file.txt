@@ -1,0 +1,17 @@
+//hello world
+" "
+const double b = 12.12 + 2 ; //koment 1
+int a = 0.2 * 3 ; //koment 2
+for ( int s = 0 ; i < 13 || i > 0 ; ++i )
+{
+System.out.println( a + " /n " ); //a != 2
+}
+
+//hello world
+" "
+const double b = 12.12 + 2 ; //koment 1
+int a = 0.2 * 3 ; //koment 2
+for ( int s = 0 ; i < 13 || i > 0 ; ++i )
+{
+
+}
